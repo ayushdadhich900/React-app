@@ -1,0 +1,25 @@
+.header{
+    background-color: #328dc9;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+    
+.img{
+    width: 180px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: 15px;
+}
+li{
+    color: rgb(24, 23, 23);
+    display: inline-block;
+    margin: 5px;
+
+}
+
+
